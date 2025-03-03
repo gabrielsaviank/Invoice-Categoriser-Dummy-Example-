@@ -1,0 +1,22 @@
+[
+  {
+    "description": "IT support and software maintenance services",
+    "account_code": "4320",
+    "category": "IT Services"
+  },
+  {
+    "description": "Purchase of office chairs and desks",
+    "account_code": "4450",
+    "category": "Office Equipment"
+  },
+  {
+    "description": "Cloud hosting services for the company website",
+    "account_code": "4310",
+    "category": "Web Hosting"
+  },
+  {
+    "description": "Monthly bookkeeping services for the company",
+    "account_code": "4385",
+    "category": "Accounting Services"
+  }
+]
