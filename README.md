@@ -16,4 +16,4 @@ Since our purpose is to evaluate accuracy between both frameworks the data is in
 
 ### Improvements: 
 
-Soon I'll put create a docker No-SQL database for training and adding the samples easier
+Soon I'll create a docker No-SQL database for training and adding the samples easier
